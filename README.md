@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## 경북대학교 모바일 앱 프로그래밍1 Team project
 ## Member
 * 컴퓨터학부 2018112111 서정엽
@@ -128,4 +128,3 @@ Wireframe 및 Userflow을 구축하기 위한 tool로 Figma를 사용하였고, 
   > [회의록 Link](https://github.com/yerim10044001/Nagne/tree/main/%ED%9A%8C%EC%9D%98%EB%A1%9D)
     
 
->>>>>>> 9beded091674461c2c74d453520627119ab2c2c4
